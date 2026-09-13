@@ -23,6 +23,3 @@ hypervisor driving KVM through raw ioctls.
 | [jms-ecommerce](https://github.com/Kando04/jms-ecommerce) | Distributed backend: three subsystems with separate databases, integrated only over JMS queues behind a JAX-RS gateway |
 | [cagemax](https://github.com/Kando04/cagemax) | Django app for running an MMA club — training logs, weight-cut tracking, events and fight records |
 
-### Contact
-
-kandicilija@gmail.com
